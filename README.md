@@ -5,6 +5,9 @@ Page Obfuscator for protecting your pages. The code is not the best, because the
 ```bash
   java -Dfile.encoding=UTF-8 -jar x-PageObfuscator.jar --toobf index.html --css style.css
 ```
+# Example
+Sample page - https://xmon.cf/obfuscator/
+
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
