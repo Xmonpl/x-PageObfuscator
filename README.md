@@ -3,7 +3,7 @@ Page Obfuscator for protecting your pages. The code is not the best, because the
 
 # Usage
 ```bash
-  java -Dfile.encoding=UTF-8 -jar x-PageObfuscator.jar --toobf index.html --css style.css
+  java -Dfile.encoding=UTF-8 -jar x-PageObfuscator.jar --toobf index.html --css style.css --imgencode <true/false>
 ```
 # Example
 Sample page - https://xmon.cf/obfuscator/
